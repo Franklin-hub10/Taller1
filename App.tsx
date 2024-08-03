@@ -9,7 +9,9 @@ import { StackNavigator } from './.expo/src/navigator/StackNavigator';
 const App = () => {
   return (
     <NavigationContainer>
+      
   <StackNavigator/>
+
       </NavigationContainer>
   )
 }
